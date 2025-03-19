@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="colorSecondary">#03DAC6</color>
+    <color name="sent_message_background">#DCF8C6</color>
+    <color name="received_message_background">#FFFFFF</color>
+    <color name="message_text_sent">#000000</color>
+    <color name="message_text_received">#000000</color>
+    <color name="message_time">#757575</color>
+    <color name="input_background">#F5F5F5</color>
+    <color name="online_status">#4CAF50</color>
+    <color name="offline_status">#B0BEC5</color>
+</resources>
