@@ -59,4 +59,14 @@ dependencies {
 
     // Glide
     implementation("com.github.bumptech.glide:glide:4.16.0")
+    implementation(libs.androidx.junit.ktx)
+    implementation(libs.androidx.runner)
+
+    // Testing dependencies
+    testImplementation("junit:junit:4.13.2")
+    testImplementation("org.mockito:mockito-core:5.12.0")
+    testImplementation("org.mockito.kotlin:mockito-kotlin:5.2.1")
+    testImplementation ("org.robolectric:robolectric:4.9")
+    testImplementation ("androidx.test:core:1.5.0")
+    testImplementation ("com.google.truth:truth:1.1.3")
 }
